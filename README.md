@@ -1,2 +1,0 @@
-# glowing-waddle
-My kitchen
